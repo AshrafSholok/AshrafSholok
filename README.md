@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a software engineering student. I have exper
   <li>Java</li>
   <li>Python</li>
   <li>C++</li>
-  <li>Reset API</li>
+  <li>REST API</li>
   <li>SQL</li>
   <li>Flutter</li>
   <li>HTML CSS JS</li>
