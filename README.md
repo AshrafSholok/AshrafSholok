@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Fresh graduate from AAST faclty of Computer Science<br>📚 I'm currently learning Mobile App development<br>📫 How to reach me Emil ashrafmohamed2469@gmail.com</p>
+<p align="left">✨ Fresh graduate from AAST faclty of Computer Science<br>📚 I'm currently learning Mobile App development<br>📫 How to reach me Email <a href="ashrafmohamed2469@gmail.com">ashrafmohamed2469@gmail.com</a><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1erTL_lQbA1J5L3i_5K89ACYMgPKGw-oA/view?usp=sharing">Resume Link</a></p>
 
 ###
 
