@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashraf Mohamed</h1>
 <h3 align="center">Software Engineer, Full Stack and DevOps Engineer</h3>
 
+<p align="left">✨ graduate from AAST faclty of Computer Science<br>📫 How to reach me Email <a href="ashrafmohamed2469@gmail.com">ashrafmohamed2469@gmail.com</a><br>📄 Know about my experiences <a href="https://drive.google.com/file/d/1n_25n9sHRZW8KfcvfUYV2ZZAHxz-AUSR/view?usp=sharing">Resume Link</a></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrafsholok" alt="ashrafsholok" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
