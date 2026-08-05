@@ -22,13 +22,24 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/AshrafSholok">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AshrafSholok&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="AshrafSholok's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=AshrafSholok&theme=dark&hide_border=true&cache_seconds=86400" alt="AshrafSholok's GitHub Streak" width="49%" />
+  <img
+    src="./profile/stats.svg"
+    alt="AshrafSholok's GitHub Stats"
+    height="180"
+  />
+
+  <img
+    src="./profile/streak.svg"
+    alt="AshrafSholok's GitHub Streak"
+    height="180"
+  />
 </p>
+
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=AshrafSholok&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ashraf Mohamed's GitHub Trophies" />
+  <img
+    src="./profile/trophy.svg"
+    alt="Ashraf Mohamed's GitHub Trophies"
+  />
 </p>
 
 
